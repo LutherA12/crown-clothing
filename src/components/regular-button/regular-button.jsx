@@ -1,9 +1,5 @@
 import "./regular-button.styles.scss";
-
-const BUTTON_TYPE_CLASSES = {
-  google: "google-sign-in",
-  inverted: "inverted",
-};
+import { BUTTON_TYPE_CLASSES } from "../../constants/constants.jsx";
 
 function RegularButton({ children, buttonType, ...inputProps }) {
   return (

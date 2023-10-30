@@ -7,3 +7,5 @@ This will be a fully realized clothing web application using React along with CR
 09/07/2023 update: I've set up the completed sign in page with two(2) forms (i.e. a sign up form and a sign in form), I will be moving on to using (leveraging or consuming) the user object that I get back from the sign up and sign in methods. More updates to follow.
 
 09/27/2023 update: I've set up user context and a sign out method using auth. I should be finished with this portion in the next few days; More updates to follow; 
+
+10/30/2023 update: Just a quick update; I'm working with Observer so that I can streamline all of my user context code into one place; More updates to follow;
